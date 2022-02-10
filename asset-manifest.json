@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.9426793f.js",
-    "index.html": "/index.html",
-    "main.9426793f.js.map": "/static/js/main.9426793f.js.map"
+    "main.js": "/react-widgets/static/js/main.9426793f.js",
+    "index.html": "/react-widgets/index.html",
+    "main.9426793f.js.map": "/react-widgets/static/js/main.9426793f.js.map"
   },
   "entrypoints": [
     "static/js/main.9426793f.js"
