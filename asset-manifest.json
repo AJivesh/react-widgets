@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-widgets/static/js/main.9426793f.js",
+    "main.js": "/react-widgets/static/js/main.181de093.js",
     "index.html": "/react-widgets/index.html",
-    "main.9426793f.js.map": "/react-widgets/static/js/main.9426793f.js.map"
+    "main.181de093.js.map": "/react-widgets/static/js/main.181de093.js.map"
   },
   "entrypoints": [
-    "static/js/main.9426793f.js"
+    "static/js/main.181de093.js"
   ]
 }
